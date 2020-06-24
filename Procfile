@@ -1,1 +1,1 @@
-pip
+web: gunicorn helloworld.wsgi
